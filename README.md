@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Matheus França, desenvolvedor web 👋
 
-- 🔭 Hoje eu trabalho full stack
+- 🔭 Hoje eu trabalho com desenvolvimento web front-end
 - 🌱 Estudando JavaScript
 - 📫 Contate-me no email : se7inset@gmail.com
 
