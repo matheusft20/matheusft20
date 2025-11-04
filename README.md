@@ -17,7 +17,7 @@ Olá! Eu sou o Matheus França, desenvolvedor web 👋
   <a href="https://instagram.com/matheusft20" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:se7inset@gmail.com" target="_blank">
+  <a href="mailto:matheusdiexweb@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/matheus-fran%C3%A7a-6a3094223/" target="_blank">
